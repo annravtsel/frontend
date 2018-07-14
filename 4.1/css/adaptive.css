@@ -1,0 +1,164 @@
+@media screen and (max-width: 1350px){
+	.this_film,
+	.this_film_last
+	{
+		width: 100%;
+		max-width: 300px;
+		margin-left: 100px;
+		margin-bottom: 40px;
+	}
+
+	.film
+	{
+		max-width: 100%;
+	}
+    
+	.favourite_films
+	{
+		text-align: center;
+	}
+}
+
+
+@media screen and (max-width: 1200px){
+	.about_myself
+	{
+		float: left;
+		max-width: none;
+		margin-top: 30px;
+		margin-bottom: auto;
+	}
+
+	.about_me_text,
+	.hobbies_text
+	{
+		max-width: 410px;
+	}
+
+	.me_and_my_lists
+	{
+		max-width: 970px;
+		margin-left: auto;
+	}
+    
+    .about_myself
+    {
+        margin-top: 150px;
+    }
+	
+    .quote_part
+    {
+        margin-left: 100px;
+        float: left;
+    }
+}
+
+@media screen and (max-width: 970px){
+    .me
+    {
+        max-width: 75%;
+    }
+    
+    .me_and_my_lists h3,
+    .me_and_my_lists ol
+    {
+        font-size: 110%;
+    }
+
+    .about_myself p
+    {
+        font-size: 110%;
+    }
+    
+    .about_myself
+    {
+        float: none;
+        margin-top: 350px;
+        margin-left: 250px;
+    }
+    
+    .my_name:after
+    {
+        margin-left: 81px;
+    }
+    
+    .list_of_animes
+    {
+        margin-top: 390px;
+        height: 100px;
+    }
+    
+    .list_of_movies
+    {
+        height: 290px;
+    }
+
+@media screen and (max-width: 800px){
+    .form_title:after,
+	.form_title:before
+	{
+		display: none;
+	}
+    
+    .quote_part 
+    {
+        float: left;
+        margin-left: auto;
+        margin-top: 154px;
+        width: 100%;
+    }   
+}
+@media screen and (max-width: 730px){
+        
+    .about_myself
+    {
+        float:left;
+        margin-top: 0;
+        margin-left: 0;
+    }    
+        
+    .this_film,
+	.this_film_last
+	{
+		width: 100%;
+		max-width: 300px;
+		margin-left: 30px;
+		margin-bottom: 40px;
+	}
+}
+    
+@media screen and (max-width: 400px){
+    .this_film,
+	.this_film_last
+	{
+		width: 90%;
+		max-width: 400px;
+		margin-left: 10px;
+		margin-bottom: 40px;
+	}
+    .me_and_my_lists h3,
+    .me_and_my_lists ol,
+    .me_and_my_lists ul
+    {
+        font-size: 100%;
+    }
+    
+    .quote_part 
+    {
+        float: non;
+        margin-left: auto;
+        margin-top: 154px;
+        width: 100%;
+        font-size: 70%;
+    }   
+    
+    .the_quote
+    {
+        font-size: 230%;
+    }
+    
+    .me
+    {
+        max-width: 65%;
+    }
+    
