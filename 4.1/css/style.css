@@ -246,7 +246,7 @@
 .top_me 
 {
     float:left;
-    background-image: url(/images/about_me_icon.png);
+    background-image: url(../images/about_me_icon.png);
     background-repeat: no-repeat;
     background-position: 20px 17px;
     padding: 10px 22px 8px 45px;
@@ -256,7 +256,7 @@
 
 .top_me:hover
 {
-    background-image: url(/images/about_me_icon_white.png);
+    background-image: url(../images/about_me_icon_white.png);
     background-repeat: no-repeat;
     background-position: 20px 17px;
     color: #f5f5f5;
@@ -266,7 +266,7 @@
 .top_hobby
 {
     float:left;
-    background-image: url(/images/hobby_icon.png);
+    background-image: url(../images/hobby_icon.png);
     background-repeat: no-repeat;
     background-position: 20px 17px;
     padding: 10px 22px 8px 45px;
@@ -278,7 +278,7 @@
 
 .top_hobby:hover
 {
-    background-image: url(/images/hobby_icon_white.png);
+    background-image: url(../images/hobby_icon_white.png);
     background-repeat: no-repeat;
     background-position: 20px 17px;
     color: #f5f5f5;
@@ -288,7 +288,7 @@
 .top_movies 
 {
     float:left;
-    background-image: url(/images/movie_icon.png);
+    background-image: url(../images/movie_icon.png);
     background-repeat: no-repeat;
     background-position: 20px 17px;
     padding: 10px 22px 8px 45px;
@@ -301,7 +301,7 @@
 
 .top_movies:hover
 {
-    background-image: url(/images/movie_icon_white.png);
+    background-image: url(../images/movie_icon_white.png);
     background-repeat: no-repeat;
     background-position: 20px 17px;
     color: #f5f5f5;
@@ -311,7 +311,7 @@
 
 .background
 {
-    background-image: url(/images/top_background.jpg);
+    background-image: url(../images/top_background.jpg);
     background-repeat: no-repeat;
 }
 
@@ -534,7 +534,7 @@
     font-family: "Open Sans";
     padding-left: 15px;
     -webkit-appearance: none;
-    background: url('/images/arrow_down.png') no-repeat 498px 16px;
+    background: url('../images/arrow_down.png') no-repeat 498px 16px;
 }
 
 .blank_form textarea
